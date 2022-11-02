@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\MainPiano\MainPiano\bin\Debug\net6.0\MainPiano.exe
+C:\Users\1\source\repos\MainPiano\MainPiano\bin\Debug\net6.0\MainPiano.deps.json
+C:\Users\1\source\repos\MainPiano\MainPiano\bin\Debug\net6.0\MainPiano.runtimeconfig.json
+C:\Users\1\source\repos\MainPiano\MainPiano\bin\Debug\net6.0\MainPiano.dll
+C:\Users\1\source\repos\MainPiano\MainPiano\bin\Debug\net6.0\MainPiano.pdb
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.AssemblyInfo.cs
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.dll
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\refint\MainPiano.dll
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.pdb
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\MainPiano.genruntimeconfig.cache
+C:\Users\1\source\repos\MainPiano\MainPiano\obj\Debug\net6.0\ref\MainPiano.dll
